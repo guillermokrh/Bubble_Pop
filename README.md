@@ -11,6 +11,6 @@ finishing the file.  I also like using whitespace and indentation for readabilit
 intent.  
 
 I find comments especially useful when retracing my logic during debugging and thinking about edge cases for testing. I also enjoy writing descriptive variable and function names as much as possible, since I also find this helps me when
-designing solutions that make use of those variables/funtions.   
+designing solutions that make use of those variables/functions.   
 
 *Professor Lillis's prompt is the hw5-bubble-pop-spring-2015.pdf file above.
