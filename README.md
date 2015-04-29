@@ -1,6 +1,5 @@
 # Bubble_Pop
 Submission of Homework 5 for CS141
-*Professor Lillis's prompt is the hw5-bubble-pop-spring-2015.pdf file above.
 
 For this assignment I was tasked with implementing the module/ADT for the game "Bubble Pop".  I was given the header file 'bboard.h',
 which lists the functions and struct types necessary, and I created bboard.c from scratch.  We were given bpop.c as a general client
@@ -13,3 +12,5 @@ intent.
 
 I find comments especially useful when retracing my logic during debugging and thinking about edge cases for testing. I also enjoy writing descriptive variable and function names as much as possible, since I also find this helps me when
 designing solutions that make use of those variables/funtions.   
+
+*Professor Lillis's prompt is the hw5-bubble-pop-spring-2015.pdf file above.
